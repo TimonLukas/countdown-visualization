@@ -108,6 +108,7 @@ body
     transition: background-color 1s linear
 
     .element
+      text-shadow: 0 0 10px black
       .number
         font-size: 9vw
 
